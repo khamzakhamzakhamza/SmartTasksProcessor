@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTaskProcessor", "SmartTaskProcessor.csproj", "{47498B70-5335-45A5-9D21-C2273217DF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTasksProcessor.Example", "SmartTasksProcessor.Example\SmartTasksProcessor.Example.csproj", "{BAA9931E-0B92-448E-895C-0186720A1C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47498B70-5335-45A5-9D21-C2273217DF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47498B70-5335-45A5-9D21-C2273217DF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47498B70-5335-45A5-9D21-C2273217DF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47498B70-5335-45A5-9D21-C2273217DF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA9931E-0B92-448E-895C-0186720A1C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA9931E-0B92-448E-895C-0186720A1C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA9931E-0B92-448E-895C-0186720A1C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA9931E-0B92-448E-895C-0186720A1C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D40CD765-36B0-4C39-8ACE-822D935000AF}
+	EndGlobalSection
+EndGlobal
